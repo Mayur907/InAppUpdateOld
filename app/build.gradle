@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'stylishfont.tattoomaker.fonttattoodesign'
+    namespace 'inapp.appupdate.inappupdatelib'
     compileSdk 34
 
     defaultConfig {
-        applicationId "stylishfont.tattoomaker.fonttattoodesign"
+        applicationId "inapp.appupdate.inappupdatelib"
         minSdk 21
         targetSdk 34
         versionCode 2

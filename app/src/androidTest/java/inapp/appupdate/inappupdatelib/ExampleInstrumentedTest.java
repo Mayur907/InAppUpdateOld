@@ -1,4 +1,4 @@
-package stylishfont.tattoomaker.fonttattoodesign;
+package inapp.appupdate.inappupdatelib;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.tattoomaker.fonttattoodesign", appContext.getPackageName());
+        assertEquals("com.appupdate.inappupdatelib", appContext.getPackageName());
     }
 }

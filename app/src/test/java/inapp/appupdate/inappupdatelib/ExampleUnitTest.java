@@ -1,4 +1,4 @@
-package stylishfont.tattoomaker.fonttattoodesign;
+package inapp.appupdate.inappupdatelib;
 
 import org.junit.Test;
 
