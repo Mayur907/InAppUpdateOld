@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InAppUpdateLibrary
 [![](https://jitpack.io/v/Mayur907/inAppUpdate.svg)](https://jitpack.io/#Mayur907/inAppUpdate)
 
@@ -97,3 +98,6 @@ ActivityResultLauncher<Intent> inAppActivity = registerForActivityResult(
 
 ## About Me
 Follow me at [Mayur907](https://github.com/Mayur907).
+=======
+# InAppUpdateOld
+>>>>>>> 0b1000d511d7e71064c5e3e94253992f29f1349d
