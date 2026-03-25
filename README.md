@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # InAppUpdateLibrary
-[![](https://jitpack.io/v/Mayur907/inAppUpdate.svg)](https://jitpack.io/#Mayur907/inAppUpdate)
+[![](https://jitpack.io/v/Mayur907/InAppUpdateOld.svg)](https://jitpack.io/#Mayur907/InAppUpdateOld)
 
 >The simplest InAppUpdate library, set IMMEDIATE or FLEXIBLE in a few steps!
  
